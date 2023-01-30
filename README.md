@@ -1,6 +1,6 @@
 ### Hi I'm yooly 👋
 
-True mastery of any skill takes a lifetime .
+True mastery of any skill takes a lifetime.
 
 
 ### Technology Stack
