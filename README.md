@@ -46,6 +46,7 @@ True mastery of any skill takes a lifetime.
 
 <a href="https://yooly.cc"><img src="https://img.shields.io/badge/-Blog-000?logo=nextdotjs" alt="Blog"></a>
 <a href="https://github.com/li9269391"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
+<a href="https://www.zhihu.com/people/chen-yong-li-47-22"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
 
 ----
 
